@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22185" started-at="2018-08-10T07:06:45Z" finished-at="2018-08-10T07:07:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22185" started-at="2018-08-10T07:06:45Z" finished-at="2018-08-10T07:07:07Z">
+      <class name="com.vtiger.tests.LoginPageValidation">
+        <test-method status="PASS" signature="AppLaunch()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="AppLaunch" is-config="true" duration-ms="8059" started-at="2018-08-10T07:06:45Z" finished-at="2018-08-10T07:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppLaunch -->
+        <test-method status="PASS" signature="verifyInvalidLogin()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="verifyInvalidLogin" duration-ms="6249" started-at="2018-08-10T07:06:53Z" finished-at="2018-08-10T07:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLogin -->
+        <test-method status="PASS" signature="verifyLoginTheme()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="verifyLoginTheme" duration-ms="307" started-at="2018-08-10T07:06:59Z" finished-at="2018-08-10T07:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTheme -->
+        <test-method status="PASS" signature="verifyLogo()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="verifyLogo" duration-ms="189" started-at="2018-08-10T07:07:00Z" finished-at="2018-08-10T07:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="verifyTitle" duration-ms="225" started-at="2018-08-10T07:07:00Z" finished-at="2018-08-10T07:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="verifyValidLogin" duration-ms="6241" started-at="2018-08-10T07:07:00Z" finished-at="2018-08-10T07:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="appClose()[pri:0, instance:com.vtiger.tests.LoginPageValidation@1877ab81]" name="appClose" is-config="true" duration-ms="861" started-at="2018-08-10T07:07:06Z" finished-at="2018-08-10T07:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appClose -->
+      </class> <!-- com.vtiger.tests.LoginPageValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
